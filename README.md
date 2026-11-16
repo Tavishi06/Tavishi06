@@ -1,194 +1,168 @@
-<!-- ANIMATED HEADER -->
+&#x20;\<div align="center">
 
-<div align="center">
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:172B4D,100:2563EB&height=190&section=header&text=Tavishi%20Kashyap&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=60&descSize=16](https://capsule-render.vercel.app/api?type=waving\&color=0:101827,50:172B4D,100:2563EB\&height=190\&section=header\&text=Tavishi%20Kashyap\&fontSize=48\&fontColor=ffffff\&fontAlignY=38\&desc=Software%20Development%20%7C%20Machine%20Learning%20%7C%20AI\&descAlignY=60\&descSize=16)" width="100%" alt="Tavishi Kashyap profile banner" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Tavishi%20Kashyap&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20ML%20%26%20AI%20Enthusiast&descAlignY=58&descSize=17" width="100%" />
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=650&lines=Software+Developer;Machine+Learning+Enthusiast;Exploring+Generative+AI+%26+RAG;Building+Practical+AI+Applications](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&duration=3000\&pause=1200\&color=60A5FA\&center=true\&vCenter=true\&width=650\&lines=Software+Developer;Machine+Learning+Enthusiast;Exploring+Generative+AI+%26+RAG;Building+Practical+AI+Applications)" alt="Typing introduction" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Ideas+into+Reality;Machine+Learning+%26+AI+Enthusiast;Exploring+Generative+AI+%26+RAG;Turning+Problems+into+Solutions" alt="Typing Animation" />
+\<br/>
 
-<br/>
+\<a href="[https://github.com/Tavishi06](https://github.com/Tavishi06)">
+\<img src="[https://img.shields.io/badge/GitHub-Tavishi06-181717?style=flat-square&logo=github](https://img.shields.io/badge/GitHub-Tavishi06-181717?style=flat-square\&logo=github)" alt="GitHub"/>
+\</a>
+\<a href="[https://www.linkedin.com/in/tavishi-kashyap-0409b6370/](https://www.linkedin.com/in/tavishi-kashyap-0409b6370/)">
+\<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin)" alt="LinkedIn"/>
+\</a>
+\<a href="mailto\:tavishikashyap02\@gmail.com">
+\<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail)" alt="Email"/>
+\</a>
 
-<a href="https://github.com/Tavishi06">
-<img src="https://img.shields.io/badge/GitHub-Tavishi06-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/tavishi-kashyap-0409b6370/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Tavishi06&style=for-the-badge&color=203A43&label=PROFILE+VIEWS" />
-
-</div>
-
----
-
-## 👩‍💻 About Me
-
-Hello! I'm **Tavishi Kashyap**, a Computer Science Engineering student passionate about building software applications and intelligent solutions using Machine Learning and Artificial Intelligence.
-
-I enjoy exploring new technologies, solving programming challenges, and transforming ideas into practical projects.
-
-- 🎓 **Education:** B.Tech in Computer Science Engineering
-- 🏛️ **University:** IKGPTU Main Campus
-- 📅 **Graduation:** 2027
-- 📊 **CGPA:** 8.9/10
-- 💻 **Interests:** Software Development, Full-Stack Development & Machine Learning
-- 🤖 **Exploring:** Generative AI, LLMs, RAG & Agentic AI
-- 🌱 **Currently working on:** Building practical AI-powered applications
-- 🎯 **Open to:** Software Development, Full-Stack & ML Internship Opportunities
+\</div>
 
 ---
 
-## ⚡ Technical Skills
+## About Me
 
-### Programming Languages
+I'm **Tavishi Kashyap**, a Computer Science Engineering student interested in software development, Machine Learning, and Artificial Intelligence.
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-</p>
+I enjoy building practical applications, experimenting with ML algorithms, and exploring how intelligent systems can solve real-world problems.
 
-### Frontend Development
+- 🎓 B.Tech Computer Science Engineering — IKGPTU Main Campus
+- 📅 Expected Graduation: 2027
+- 📊 CGPA: 8.9/10
+- 💻 Focus: Software Development & Full-Stack Engineering
+- 🤖 Interest: Machine Learning, Generative AI & LLM Applications
+- 🌱 Currently exploring: RAG, Agentic AI and AI application development
+- 🎯 Open to paid Software Development, Full-Stack and ML internship opportunities
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
+## Technical Skills
 
-### Backend Development & Databases
+**Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,supabase" />
-</p>
+\<img src="[https://skillicons.dev/icons?i=c,cpp,java,python](https://skillicons.dev/icons?i=c,cpp,java,python)" alt="C, C++, Java and Python"/>
 
-### Machine Learning & AI
+**Frontend Development**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-5B8DEF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%26%20RAG-8A2BE2?style=for-the-badge" />
-</p>
+\<img src="[https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind)" alt="Frontend technologies"/>
 
-### Tools & Platforms
+**Backend & Databases**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+\<img src="[https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,supabase](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,supabase)" alt="Backend and database technologies"/>
+
+**Machine Learning & AI**
+
+\<img src="[https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)" alt="Scikit-learn"/>
+\<img src="[https://img.shields.io/badge/NLP-Text%20Processing-2563EB?style=flat-square](https://img.shields.io/badge/NLP-Text%20Processing-2563EB?style=flat-square)" alt="NLP"/>
+\<img src="[https://img.shields.io/badge/Generative%20AI-LLMs-7C3AED?style=flat-square](https://img.shields.io/badge/Generative%20AI-LLMs-7C3AED?style=flat-square)" alt="Generative AI"/>
+\<img src="[https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0D9488?style=flat-square](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0D9488?style=flat-square)" alt="RAG"/>
+
+**Tools**
+
+\<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman](https://skillicons.dev/icons?i=git,github,vscode,postman)" alt="Development tools"/>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 01. 🤖 AI Response Evaluator
+### 01. AI Response Evaluator
 
-An AI-powered application designed to evaluate AI-generated responses using automated evaluation metrics and test cases.
+An AI-powered evaluation application designed to assess the quality of AI-generated responses using automated evaluation metrics and test cases.
 
-- Automated response evaluation
-- Evaluation metrics and scoring
-- Batch testing and result tracking
+- Response scoring and evaluation
+- Batch evaluation and result tracking
+- Test-case-based assessment
 
-**Tech Stack:** Python | Streamlit | Gemini API
+**Technologies:** Python · Streamlit · Gemini API
 
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Tavishi06/ai-response-evaluator)
+[View Repository →](https://github.com/Tavishi06/ai-response-evaluator)
 
-### 02. 🌐 Web-Nova
+### 02. Web-Nova
 
-A web development project focused on building an engaging and responsive web experience.
+A full-stack web development project focused on creating an engaging and responsive user experience.
 
-**Tech Stack:** Web Development
+**Technologies:** React · Node.js · Express · MongoDB
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-2C5364?style=for-the-badge&logo=vercel)](https://webnova-murex.vercel.app/)
+[Live Demo →](https://webnova-murex.vercel.app/)
 
-### 03. 🔍 GoodFind
+### 03. GoodFind
 
-A full-stack web development project demonstrating practical application development.
+A full-stack application developed to demonstrate practical web development and application-building skills.
 
-**Tech Stack:** Full-Stack Web Development
+**Technologies:** MERN Stack
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-2C5364?style=for-the-badge&logo=vercel)](https://goodfind-nine.vercel.app/)
+[Live Demo →](https://goodfind-nine.vercel.app/)
 
-### 04. 📊 Customer Churn Prediction
+### 04. Customer Churn Prediction
 
-A Machine Learning project that predicts customer churn using classification algorithms.
+A Machine Learning classification project that predicts whether a customer is likely to discontinue a service.
 
 - Data preprocessing and feature engineering
 - Logistic Regression and Random Forest
-- Model evaluation and comparison
+- Model training and performance evaluation
 
-**Tech Stack:** Python | Scikit-learn | Streamlit
+**Technologies:** Python · Pandas · Scikit-learn · Streamlit
 
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Tavishi06/Churn-Prediction)
+[View Repository →](https://github.com/Tavishi06/Churn-Prediction)
 
-### 05. 📰 Fake News Detection
+### 05. Fake News Detection
 
-An NLP-based Machine Learning project that classifies news articles as real or fake.
+An NLP-based classification project that identifies potentially fake news articles through text processing and machine learning.
 
-- Text preprocessing
+- Text cleaning and preprocessing
 - Tokenization and stop-word removal
-- TF-IDF feature extraction
-- Classification model
+- TF-IDF vectorization
+- Classification
 
-**Tech Stack:** Python | NLP | Scikit-learn
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tavishi06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavishi06&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tavishi06&theme=tokyonight&hide_border=true" />
-
-</div>
+**Technologies:** Python · NLP · Scikit-learn
 
 ---
 
-## 🐍 Contribution Activity
+## GitHub Statistics
 
-<div align="center">
+\<div align="center">
 
-<img src="https://raw.githubusercontent.com/Tavishi06/Tavishi06/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=Tavishi06&show_icons=true&theme=transparent&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Tavishi06\&show_icons=true\&theme=transparent\&hide_border=true\&rank_icon=github)" alt="GitHub statistics"/>
 
-</div>
+\<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Tavishi06&layout=compact&theme=transparent&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Tavishi06\&layout=compact\&theme=transparent\&hide_border=true)" alt="Most used languages"/>
+
+\</div>
 
 ---
 
-## 🌱 Currently Exploring
+## Contribution Activity
 
-- Advanced Data Structures & Algorithms
+\<div align="center">
+
+\<picture>
+&#x20; \<source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/Tavishi06/Tavishi06/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Tavishi06/Tavishi06/output/github-contribution-grid-snake-dark.svg)"/>
+&#x20; \<source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/Tavishi06/Tavishi06/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Tavishi06/Tavishi06/output/github-contribution-grid-snake.svg)"/>
+&#x20; \<img src="[https://raw.githubusercontent.com/Tavishi06/Tavishi06/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Tavishi06/Tavishi06/output/github-contribution-grid-snake.svg)" alt="GitHub contribution snake animation" width="100%"/>
+\</picture>
+
+\</div>
+
+---
+
+## Currently Learning
+
+- Advanced Data Structures and Algorithms
 - Full-Stack Development
 - Generative AI and Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI and Intelligent Workflows
-- Production-ready AI applications
+- Retrieval-Augmented Generation
+- Agentic AI Systems
+- Production-oriented AI applications
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-<div align="center">
+\<div align="center">
 
-<a href="https://github.com/Tavishi06">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+\<a href="[https://github.com/Tavishi06](https://github.com/Tavishi06)"> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/> \</a> \<a href="[https://www.linkedin.com/in/tavishi-kashyap-0409b6370/](https://www.linkedin.com/in/tavishi-kashyap-0409b6370/)"> \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/> \</a> \<a href="mailto\:tavishikashyap02\@gmail.com"> \<img src="[https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/> \</a>
 
-<a href="https://www.linkedin.com/in/tavishi-kashyap-0409b6370/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+\<br/>\<br/>
 
-<a href="mailto:tavishikashyap02@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+**Code with purpose. Build with curiosity. Learn continuously.**
 
-<br/><br/>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:172B4D,100:2563EB&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:101827,50:172B4D,100:2563EB\&height=100\&section=footer)" width="100%" alt="Footer"/>
 
-### ✨ Code. Create. Innovate. Repeat.
-
-*Always learning, always building, always evolving.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
-
-</div>
+\</div>
