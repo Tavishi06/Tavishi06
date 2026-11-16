@@ -118,8 +118,6 @@ A web development project built to provide a user-friendly web experience.
 
 [Live Demo](https://goodfind-nine.vercel.app/)
 
----
-
 ## GitHub Statistics
 
 <div align="center">
@@ -128,8 +126,9 @@ A web development project built to provide a user-friendly web experience.
 
 <img src="./profile/top-langs.svg" height="170" alt="Most Used Languages" />
 
+<img src="https://streak-stats.demolab.com?user=Tavishi06&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak and Longest Streak" />
+
 </div>
----
 
 ## 🐍 Contribution Activity
 
