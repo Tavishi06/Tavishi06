@@ -120,18 +120,15 @@ A web development project built to provide a user-friendly web experience.
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tavishi06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
+<img src="./profile/stats.svg" height="170" alt="GitHub Statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavishi06&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<img width="60%" src="https://streak-stats.demolab.com?user=Tavishi06&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="./profile/top-langs.svg" height="170" alt="Most Used Languages" />
 
 </div>
-
 ---
 
 ## 🐍 Contribution Activity
