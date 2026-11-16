@@ -1,37 +1,41 @@
 
 <div align="center">
 
-# Tavishi Kashyap
+# TAVISHI KASHYAP
 
-**Computer Science Engineering Student | Machine Learning | Software Development**
+**Computer Science Engineering · Machine Learning · Software Development**
 
-Building practical applications at the intersection of software engineering and intelligent systems.
+Building practical software and exploring intelligent applications.
 
-[GitHub](https://github.com/Tavishi06) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/tavishi-kashyap-0409b6370/) &nbsp;·&nbsp; [Email](mailto:tavishikashyap02@gmail.com)
+[GitHub](https://github.com/Tavishi06) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/tavishi-kashyap-0409b6370/) &nbsp; / &nbsp; [Email](mailto:tavishikashyap02@gmail.com)
 
 </div>
 
 ---
 
-## Profile
+<p align="left"><sub>01 / INTRODUCTION</sub></p>
 
-I'm a Computer Science Engineering student at IKGPTU Main Campus, graduating in 2027.
+<h2>About Me</h2>
 
-My primary technical interests are Machine Learning, Artificial Intelligence and Software Development. I enjoy working on practical applications, experimenting with ML models and understanding how software systems work beyond the surface level.
+I'm a Computer Science Engineering student at **IKGPTU Main Campus**, graduating in 2027.
 
-- **Education:** B.Tech in Computer Science Engineering
-- **CGPA:** 8.9/10
+My interests lie in Machine Learning, Artificial Intelligence and Software Development. I enjoy developing practical applications, experimenting with machine learning models and exploring how intelligent systems can solve real-world problems.
+
+- **Education:** B.Tech, Computer Science Engineering
 - **Graduation:** 2027
-- **Current focus:** Machine Learning, Generative AI, RAG and software development
-- **Career interest:** Software Development, ML and Full-Stack internships
+- **CGPA:** 8.9/10
+- **Current focus:** Machine Learning, Generative AI, RAG and Software Development
+- **Career interests:** Software Development, Machine Learning and Full-Stack Engineering
 
 ---
 
-## Selected Projects
+<p align="left"><sub>02 / SELECTED WORK</sub></p>
+
+<h2>Projects</h2>
 
 ### 01. AI Response Evaluator
 
-An application for evaluating AI-generated responses against defined criteria and test cases.
+An application designed to evaluate AI-generated responses against defined criteria and test cases.
 
 - Automated response scoring and evaluation
 - Batch evaluation of multiple test cases
@@ -39,7 +43,7 @@ An application for evaluating AI-generated responses against defined criteria an
 
 `Python` `Streamlit` `Gemini API`
 
-[Source Code](https://github.com/Tavishi06/ai-response-evaluator)
+[View Source Code →](https://github.com/Tavishi06/ai-response-evaluator)
 
 ### 02. Customer Churn Prediction
 
@@ -51,16 +55,16 @@ A supervised machine learning application that predicts whether a customer is li
 
 `Python` `Scikit-learn` `Pandas` `Streamlit`
 
-[Source Code](https://github.com/Tavishi06/Churn-Prediction)
+[View Source Code →](https://github.com/Tavishi06/Churn-Prediction)
 
 ### 03. Fake News Detection
 
-An NLP-based classification project that uses text processing and machine learning to identify potentially fake news.
+An NLP-based classification project that identifies potentially fake news using text processing and machine learning.
 
 - Text cleaning and preprocessing
 - Tokenization and stop-word removal
 - TF-IDF feature extraction
-- Classification using machine learning
+- Machine learning classification
 
 `Python` `NLP` `TF-IDF` `Scikit-learn`
 
@@ -70,19 +74,21 @@ A web development project focused on building an interactive and responsive web 
 
 `React` `Node.js` `Express`
 
-[Live Application](https://webnova-murex.vercel.app/)
+[View Live Application →](https://webnova-murex.vercel.app/)
 
 ### 05. GoodFind
 
-A full-stack web application built to demonstrate practical application development and user-facing functionality.
+A full-stack web application demonstrating practical application development and user-facing functionality.
 
 `MERN Stack`
 
-[Live Application](https://goodfind-nine.vercel.app/)
+[View Live Application →](https://goodfind-nine.vercel.app/)
 
 ---
 
-## Technical Stack
+<p align="left"><sub>03 / TECHNOLOGY</sub></p>
+
+<h2>Technical Stack</h2>
 
 **Programming Languages**
 
@@ -110,16 +116,20 @@ A full-stack web application built to demonstrate practical application developm
 
 ---
 
-## Currently Exploring
+<p align="left"><sub>04 / CURRENT FOCUS</sub></p>
+
+<h2>What I'm Exploring</h2>
 
 - Retrieval-Augmented Generation (RAG)
 - Agentic AI and AI application development
 - Building reliable AI-powered applications
-- Strengthening problem-solving and software engineering fundamentals
+- Problem-solving and software engineering fundamentals
 
 ---
 
-## GitHub Activity
+<p align="left"><sub>05 / OPEN SOURCE ACTIVITY</sub></p>
+
+<h2>GitHub Statistics</h2>
 
 <div align="center">
 
@@ -135,14 +145,16 @@ A full-stack web application built to demonstrate practical application developm
 
 ---
 
-## Contribution History
+<p align="left"><sub>06 / CONTRIBUTION HISTORY</sub></p>
+
+<h2>Consistency in Code</h2>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tavishi06/Tavishi06/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tavishi06/Tavishi06/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Tavishi06/Tavishi06/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution activity">
+  <img src="https://raw.githubusercontent.com/Tavishi06/Tavishi06/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution activity">
 </picture>
 
 </div>
@@ -151,10 +163,10 @@ A full-stack web application built to demonstrate practical application developm
 
 <div align="center">
 
-**Tavishi Kashyap**
+**TAVISHI KASHYAP**
 
 Computer Science Engineering · 2027
 
-[GitHub](https://github.com/Tavishi06) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/tavishi-kashyap-0409b6370/) &nbsp;·&nbsp; [Email](mailto:tavishikashyap02@gmail.com)
+[GitHub](https://github.com/Tavishi06) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/tavishi-kashyap-0409b6370/) &nbsp; / &nbsp; [Email](mailto:tavishikashyap02@gmail.com)
 
 </div>
