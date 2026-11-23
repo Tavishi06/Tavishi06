@@ -33,7 +33,25 @@ My interests lie in Machine Learning, Artificial Intelligence and Software Devel
 
 <h2>Projects</h2>
 
-### 01. AI Response Evaluator
+### 01. CareerPilot AI
+
+An in-development career preparation platform that compares a resume with a
+target job description and turns skill gaps into an actionable learning and
+interview plan.
+
+- Extract selectable text from PDF resumes
+- Compare supported skills and identify job-specific gaps
+- Generate prerequisite-aware learning milestones with curated resources
+- Practice job-skill interview questions with transparent rubric feedback
+
+`React` `Tailwind CSS` `FastAPI` `Python` `Pydantic` `pypdf`
+
+The current analysis and interview feedback use deterministic keyword and
+rubric matching; Gemini and LangGraph integration remain planned work.
+
+[View Source Code →](https://github.com/Tavishi06/CareerPilot)
+
+### 02. AI Response Evaluator
 
 An application designed to evaluate AI-generated responses against defined criteria and test cases.
 
@@ -45,7 +63,7 @@ An application designed to evaluate AI-generated responses against defined crite
 
 [View Source Code →](https://github.com/Tavishi06/ai-response-evaluator)
 
-### 02. Customer Churn Prediction
+### 03. Customer Churn Prediction
 
 A supervised machine learning application that predicts whether a customer is likely to discontinue a service.
 
@@ -57,7 +75,7 @@ A supervised machine learning application that predicts whether a customer is li
 
 [View Source Code →](https://github.com/Tavishi06/Churn-Prediction)
 
-### 03. Fake News Detection
+### 04. Fake News Detection
 
 An NLP-based classification project that identifies potentially fake news using text processing and machine learning.
 
@@ -68,7 +86,7 @@ An NLP-based classification project that identifies potentially fake news using 
 
 `Python` `NLP` `TF-IDF` `Scikit-learn`
 
-### 04. Web-Nova
+### 05. Web-Nova
 
 A web development project focused on building an interactive and responsive web experience.
 
@@ -76,7 +94,7 @@ A web development project focused on building an interactive and responsive web 
 
 [View Live Application →](https://webnova-murex.vercel.app/)
 
-### 05. GoodFind
+### 06. GoodFind
 
 A full-stack web application demonstrating practical application development and user-facing functionality.
 
